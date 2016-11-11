@@ -126,6 +126,9 @@ footer.container-fluid {
   padding-top: 0px;
   padding-bottom: 0px;
 }
+footer img {
+  display: inline
+}
 footer a {
   color: #eff2f6;
 }

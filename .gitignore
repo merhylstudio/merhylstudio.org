@@ -33,3 +33,10 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 ## vim cache files
 *.swp
+
+## Capistrano files
+.bundle
+config/database.yml
+config/deploy
+log
+composer.phar

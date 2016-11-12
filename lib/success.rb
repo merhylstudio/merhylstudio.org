@@ -6,4 +6,4 @@ namespace :merhylstudio do
   end
 end
 
-after :deploy, 'merhylstudio:notify'
+after :deploy, 'merhylstudio:success'
